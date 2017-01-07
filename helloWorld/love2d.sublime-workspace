@@ -1,0 +1,1086 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cros",
+				"cross_sum"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"verti",
+				"vertices"
+			],
+			[
+				"em",
+				"emplace_front"
+			],
+			[
+				"cur",
+				"currEdgeId"
+			],
+			[
+				"adj",
+				"adjedgev"
+			],
+			[
+				"pre",
+				"prevedge"
+			],
+			[
+				"curre",
+				"curredge"
+			],
+			[
+				"cc",
+				"ccwsucc_dir"
+			],
+			[
+				"positi",
+				"positive_dir"
+			],
+			[
+				"ccw",
+				"ccwsucc_dir"
+			],
+			[
+				"adjed",
+				"adjedge"
+			],
+			[
+				"scale",
+				"scaleMatrix"
+			],
+			[
+				"trans",
+				"translateMatrix"
+			],
+			[
+				"ed",
+				"edges"
+			],
+			[
+				"adjlo",
+				"adjloops"
+			],
+			[
+				"rpr",
+				"rprev"
+			],
+			[
+				"adjl",
+				"adjloopv"
+			],
+			[
+				"adjver",
+				"adjvertexv"
+			],
+			[
+				"ad",
+				"adjedgev"
+			],
+			[
+				"ve",
+				"vector\tstd::vector"
+			],
+			[
+				"st",
+				"std"
+			],
+			[
+				"c",
+				"curredge"
+			],
+			[
+				"ie",
+				"iedge"
+			],
+			[
+				"_i",
+				"_id"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"l",
+				"_lsucc"
+			],
+			[
+				"r",
+				"_rloop"
+			],
+			[
+				"ll",
+				"_lloop"
+			],
+			[
+				"_v",
+				"_vstart"
+			],
+			[
+				"camer",
+				"raycastCamera"
+			],
+			[
+				"stac",
+				"stackRoot"
+			],
+			[
+				"uni",
+				"unique_ptr"
+			],
+			[
+				"Sa",
+				"SameLine"
+			],
+			[
+				"Trans",
+				"TranslateNode"
+			],
+			[
+				"fron",
+				"frontStack1"
+			],
+			[
+				"fro",
+				"frontStack1"
+			],
+			[
+				"root",
+				"rootNode"
+			],
+			[
+				"fr",
+				"frontStack2"
+			],
+			[
+				"ilis",
+				"ilistB"
+			],
+			[
+				"curr",
+				"currC"
+			],
+			[
+				"ilist",
+				"ilistC"
+			],
+			[
+				"ili",
+				"ilistC"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"bool",
+				"bool_or"
+			],
+			[
+				"get",
+				"getTransformedRay"
+			],
+			[
+				"tras",
+				"transformedRay"
+			],
+			[
+				"raycas",
+				"raycast_width"
+			],
+			[
+				"ray",
+				"raycast_height"
+			],
+			[
+				"model",
+				"modelTest"
+			],
+			[
+				"sha",
+				"shapeTest"
+			],
+			[
+				"interse",
+				"intersect_ray"
+			],
+			[
+				"cor",
+				"corner"
+			],
+			[
+				"oct",
+				"octree_internal"
+			],
+			[
+				"mode",
+				"model_names"
+			],
+			[
+				"Boo",
+				"BooleanErrorCodes"
+			],
+			[
+				"selec",
+				"selected_or"
+			],
+			[
+				"Bo",
+				"BooleanErrorCodes"
+			],
+			[
+				"ope",
+				"open_bb_mismatch_popup"
+			],
+			[
+				"un",
+				"unimplementedType"
+			],
+			[
+				"shou",
+				"shouldClose"
+			],
+			[
+				"sho",
+				"shouldClose"
+			],
+			[
+				"bound",
+				"boundingboxMismatch"
+			],
+			[
+				"result",
+				"result_and"
+			],
+			[
+				"End",
+				"EndPopup"
+			],
+			[
+				"sele",
+				"selected_and"
+			],
+			[
+				"dra",
+				"drawColor"
+			],
+			[
+				"white",
+				"whiteCounter"
+			],
+			[
+				"cou",
+				"countW"
+			],
+			[
+				"Begin",
+				"BeginPopupModal"
+			],
+			[
+				"typ",
+				"type_id"
+			],
+			[
+				"type",
+				"type_index"
+			],
+			[
+				"ma",
+				"make_unique"
+			],
+			[
+				"Bound",
+				"BoundingBox"
+			],
+			[
+				"bm",
+				"bmin"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"class",
+				"classify"
+			],
+			[
+				"in",
+				"inc\t#include \"…\""
+			],
+			[
+				"y",
+				"yPos"
+			],
+			[
+				"las",
+				"lastypos"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"last",
+				"lastxpos"
+			],
+			[
+				"vec",
+				"vec3"
+			],
+			[
+				"GLF",
+				"GLFW_PRESS"
+			],
+			[
+				"GLFW_KEY",
+				"GLFW_KEY_LEFT"
+			],
+			[
+				"CU",
+				"currentColor"
+			],
+			[
+				"CO",
+				"colorTable"
+			],
+			[
+				"Error",
+				"ErrorMsg"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"metho",
+				"methods"
+			],
+			[
+				"method",
+				"methodName"
+			],
+			[
+				"exp",
+				"expType"
+			],
+			[
+				"cu",
+				"currentClassTable"
+			],
+			[
+				"return",
+				"returnType"
+			],
+			[
+				"current",
+				"currentClassTable"
+			],
+			[
+				"CURRENT",
+				"currentClassTable"
+			],
+			[
+				"State",
+				"StatementList"
+			],
+			[
+				"VarDec",
+				"VarDeclList"
+			],
+			[
+				"INT",
+				"INTEGER_LITERAL"
+			],
+			[
+				"LBR",
+				"LBRACKET"
+			],
+			[
+				"RBRA",
+				"RBRACKET"
+			],
+			[
+				"idar",
+				"idarguments"
+			],
+			[
+				"idc",
+				"idclass"
+			],
+			[
+				"idclas",
+				"idclasstoken"
+			],
+			[
+				"Class",
+				"ClassDeclList"
+			],
+			[
+				"LBRA",
+				"LBRACE"
+			],
+			[
+				"RBR",
+				"RBRACKET"
+			],
+			[
+				"new",
+				"newTail"
+			],
+			[
+				"inter",
+				"interpExp"
+			],
+			[
+				"Int",
+				"IntAndTable"
+			],
+			[
+				"right",
+				"rightit"
+			],
+			[
+				"left",
+				"leftit"
+			],
+			[
+				"interp",
+				"interpExp"
+			],
+			[
+				"sai",
+				"saidaN"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"form",
+				"formString"
+			],
+			[
+				"refere",
+				"referencias"
+			],
+			[
+				"PA",
+				"paginasMemoria"
+			],
+			[
+				"nPa",
+				"nPageFaults"
+			],
+			[
+				"pag",
+				"paginasMemoria"
+			],
+			[
+				"LRU",
+				"LRUPage"
+			],
+			[
+				"pa",
+				"paginasMemoria"
+			],
+			[
+				"refer",
+				"referenciaMaisRecente"
+			],
+			[
+				"refe",
+				"referenciaMaisRecente"
+			],
+			[
+				"npa",
+				"nPageFaults"
+			],
+			[
+				"np",
+				"nPageFaults"
+			],
+			[
+				"not",
+				"notEmpty"
+			],
+			[
+				"has",
+				"hasEven"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 71,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Lua/Lua.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua/Lua.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				],
+				[
+					"Packages/User/love-run.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "Love2D",
+	"command_palette":
+	{
+		"height": 350.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set syntal:",
+				"Set Syntax: Lua (Love)"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/data/GitHub/ufc-mcg",
+		"/media/data/GitHub/ufc-mcg/src"
+	],
+	"file_history":
+	[
+		"/home/carol/.config/sublime-text-3/Packages/User/love-run.sublime-build",
+		"/media/data/GitHub/ufc-mcg/src/wed.h",
+		"/media/data/GitHub/ufc-mcg/src/wed.cpp",
+		"/media/data/GitHub/ufc-mcg/src/main.cpp",
+		"/media/data/GitHub/ufc-mcg/src/interface.cpp",
+		"/media/data/GitHub/ufc-mcg/src/model.h",
+		"/media/data/GitHub/femproject/oofem-2.4/src/oofemlib/cltypes.h",
+		"/media/data/GitHub/femproject/oofem-2.4/src/oofemlib/dof.h",
+		"/media/data/GitHub/femproject/oofem-2.4/src/oofemlib/cltypes.C",
+		"/media/data/GitHub/dfs/teste.txt",
+		"/media/data/UFC/EU/tabelaeu.tex",
+		"/media/data/GitHub/dfs/dados/no2/the_matrix",
+		"/media/data/GitHub/dfs/bb/teste 1",
+		"/media/data/GitHub/dfs/bb/test6",
+		"/media/data/GitHub/dfs/1/teste2.txt",
+		"/media/data/GitHub/dfs/bb/teste1",
+		"/media/data/GitHub/dfs/1/nana.txt",
+		"/media/data/UFC/EU/\\documentclass[convert={density=300,size=1080x800,.tex",
+		"/media/data/GitHub/ufc-mcg/src/csgtree.cpp",
+		"/media/data/GitHub/ufc-mcg/src/octree.cpp",
+		"/media/data/GitHub/ufc-mcg/src/csgtree.h",
+		"/media/data/GitHub/ufc-mcg/makefile",
+		"/media/data/GitHub/ufc-mcg/src/raycast.cpp",
+		"/media/data/GitHub/ufc-mcg/src/interface.h",
+		"/media/data/GitHub/ufc-mcg/src/shapes.h",
+		"/media/data/GitHub/ufc-mcg/models/tema_igreja.csg",
+		"/media/data/GitHub/ufc-mcg/src/tree.cpp",
+		"/media/data/GitHub/ufc-mcg/src/octree.h",
+		"/media/data/GitHub/ufc-mcg/models/intersecao.csg",
+		"/media/data/UFC/Sist Distribuidos/JGroups-JGroups-4.0.0.Beta2/README",
+		"/media/data/UFC/IC/EU/MLPG Aplicado à Computação Gráfica",
+		"/media/data/UFC/IC/EU/Pontos do Resumo",
+		"/media/data/GitHub/ufc-mcg/src/testes.txt",
+		"/media/data/GitHub/ufc-mcg/models/save.txt",
+		"/media/data/GitHub/dfs/1/joaozinho.txt",
+		"/media/data/Documentos/9e798ed2416798037356975495d41a21.log",
+		"/media/data/Documentos/c87590572d36a44cdadd1d48cd2122e1.log",
+		"/media/data/GitHub/ufc-mcg/models/csg.csg",
+		"/media/data/UFC/Modelagem em CG/ufc-mcg/README.md",
+		"/media/data/GitHub/ufc-mcg/src/boundingbox.cpp",
+		"/media/data/GitHub/ufc-mcg/src/shapes.cpp",
+		"/media/data/GitHub/ufc-mcg/src/helper.h",
+		"/media/data/GitHub/ufc-mcg/src/helper.cpp",
+		"/media/data/GitHub/ufc-mcg/README.md",
+		"/media/data/GitHub/ufc-mcg/src/octree_internal.h",
+		"/media/data/GitHub/ufc-mcg/models/taça.txt",
+		"/media/data/GitHub/ufc-mcg/lib/imgui/imgui_demo.cpp",
+		"/media/data/GitHub/ufc-mcg/inc/imgui.h",
+		"/media/data/GitHub/ufc-mcg/p.sublime-project",
+		"/home/carol/Dropbox/Faculdade/Computação Móvel/VSlidePuzzle.java",
+		"/home/carol/.local/share/android-studio/Install-Linux-tar.txt",
+		"/media/data/GitHub/ufc-mcg/inc/imgui_impl_glfw.h",
+		"/home/carol/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/carol/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pos",
+			"a->",
+			"a",
+			"vertices",
+			"pos",
+			"cwpred",
+			"cwsucc",
+			"we",
+			"inverted",
+			"tuple",
+			"adjloop",
+			"adjloops",
+			"adjedgev",
+			"curredge",
+			"197",
+			"clone",
+			"serialize",
+			"prev",
+			"pred",
+			"we",
+			"v1->id",
+			"rsucc",
+			"rpred",
+			"lsucc",
+			"lpred",
+			"rloop",
+			"lloop",
+			"rloop",
+			"lloop",
+			"rsucc",
+			"rpred",
+			"lsucc",
+			"lpred",
+			"lloop",
+			"rloop",
+			"lloop",
+			"virtual ",
+			"booleanerrorcodes",
+			"virtual ",
+			"brep",
+			".",
+			"->",
+			"push_back",
+			"dofid",
+			"id",
+			"DofId",
+			"classifier",
+			"Vertex",
+			"WEdge",
+			".",
+			"b.",
+			"a.",
+			"(\\w)\\.",
+			"(\\w).",
+			"a.",
+			"(\\w*)\\*",
+			"_(\\w*)\\(",
+			"owner_ptr<(\\w*)>",
+			"warning",
+			"error",
+			"\tstd::string s1 = children[0]->serialize(),\n\t\t\t\ts2 = children[1]->serialize();\n\treturn s1",
+			"typeid(children[1])",
+			"typeid(children[0])",
+			"0",
+			"children",
+			"serialize",
+			"u",
+			"serialize",
+			"head",
+			"tnw::csg::Shape",
+			"pop_back",
+			"unique_ptr<tnw::Shape> ",
+			"csg::Shape",
+			"csg::",
+			"make_unique<tnw::",
+			"move",
+			"unique",
+			"and_color",
+			"ilistC",
+			"auto currC = std::make_tuple(and_color(std::get<0>(currA), std::get<0>(currB)), size);\n",
+			"auto currC = std::make_tuple(and_color(std::get<0>(currA), std::get<0>(currB)), size);",
+			"or_color",
+			"bool_or",
+			"erase(0)",
+			"ilistA",
+			"A",
+			"errorDialog",
+			"scale",
+			"make_unique",
+			"draw",
+			"inputtext",
+			"textinput",
+			"file",
+			"octree.h",
+			"loadfromfile",
+			"font",
+			"io.font",
+			"y2",
+			"open_bb_mismatch_popup",
+			"draw",
+			"bool_and",
+			"tree_name",
+			"selected_or",
+			"Interseção",
+			"nw::octree::",
+			"models.push_back(newoct)",
+			"listbox",
+			"override ",
+			"virtual ",
+			"= 0",
+			"Octree",
+			"tnw::",
+			"octree::",
+			"printf",
+			"virtual ",
+			"Octree\\(",
+			"octree",
+			"Octree",
+			"make_unique",
+			"bb",
+			"DRAW",
+			"4",
+			"draw",
+			"value",
+			"main",
+			"clear",
+			"parameter",
+			"ShowExampleAppCustomRendering"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pred",
+			"prev",
+			"ccwsucc",
+			"ccwpred",
+			"cwsucc",
+			"cwpred",
+			"ccwloop",
+			"cwloop",
+			"lcw",
+			"lccw",
+			"nccw",
+			"pccw",
+			"ncw",
+			"pcw",
+			"lcw",
+			"lccw",
+			"lcw",
+			"$1->",
+			"tnw::wed::$1*",
+			"$1(",
+			"$1*",
+			"$1",
+			"child",
+			"octree_internal.h",
+			"open_bb_mismatch_error_popup",
+			"models.push_back(std::move(newoct))",
+			"tnw::Octree(",
+			"SquarePyramid",
+			"Box",
+			"ErrorMsg.getInstance().complain",
+			"table",
+			"ErrorMsg.getInstance().complain",
+			"ErrorMsg.getInstance.complain",
+			"ErrorMsg",
+			"LinkedHashMap",
+			"currClassTable",
+			"currMethodTable",
+			"void ",
+			"void",
+			"AlocadorLRU"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "love2d.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"oc",
+				"Source/octree.h"
+			],
+			[
+				"boun",
+				"Source/boundingbox.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
